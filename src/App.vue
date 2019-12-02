@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     app
+    <van-button type="danger">危险按钮</van-button>
   </div>
 </template>
 
